@@ -33,7 +33,7 @@ How will you generate a random integer number?
 
 ## Take Away 
 
-Use math.randomint to get a random integer.
+Use random.randomint to get a random integer.
 
 &nbsp;
 [![Next Page](../assets/next-button.png)](Floor-Division.md)
